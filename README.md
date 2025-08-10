@@ -1,4 +1,4 @@
-`## existing
+## existing
 PORT=3000
 MONGODB_URI=mongodb://127.0.0.1:27017/quiztest
 CORS_ORIGIN=http://localhost:5173
@@ -19,4 +19,4 @@ SMTP_PORT=587
 SMTP_SECURE=false
 SMTP_USER=your_main
 SMTP_PASS=google_account_generated_pass
-SMTP_FROM="Quiztest <jaforiqbal5592@gmail.com>"`
+SMTP_FROM="Quiztest <jaforiqbal5592@gmail.com>"
